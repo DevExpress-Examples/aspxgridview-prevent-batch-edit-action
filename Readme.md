@@ -48,7 +48,7 @@ function onFocusedCellChanging(s, e) {
 - [Grid View for ASP.NET Web Forms - A simple batch editing implementation](https://github.com/DevExpress-Examples/aspxgridview-simple-batch-editing-implementation)
 - [Grid View for ASP.NET Web Forms - Editing an in-memory dataset](https://github.com/DevExpress-Examples/aspxgridview-edit-in-memory-dataset)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=aspxgridview-prevent-batch-edit-action&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=aspxgridview-prevent-batch-edit-action&~~~was_helpful=no)
 
